@@ -1,0 +1,1 @@
+/home/user/Desktop/oss-arch-gym/sims/DRAM/expert_data/exp22/expertdata+ferret+gemsFDTD+lbm+zeusmp+fotonik3d+namd+hmmer+sphinx3_n=1000.pkl,ferret,logs/Thread_423_train/Thread_423_Workload_ferret_Algo_ppo_rlform_macme_num_steps_500_seed_0_rewardscale_false_batchsize_10_sgdepoch_1000_rpbufsize_10_regmethod_None

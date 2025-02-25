@@ -1,0 +1,7 @@
+pagepolicy,closed
+addressmapping,permutation
+rcd,13
+rp,12
+ras,19
+rrd,5
+refi,425880

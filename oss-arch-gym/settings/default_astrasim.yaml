@@ -1,0 +1,55 @@
+DeepSwarm:
+  aco:
+    ant_count: 2
+    greediness: 0.5
+    pheromone:
+      decay: 0.1
+      evaporation: 0.25
+      start: 0.1
+      verbose: false
+  max_depth: 10
+  metrics: loss
+  reuse_patience: 1
+  save_folder: null
+Nodes:
+  ArchParamsNode:
+    attributes:
+      Scheduling_Policy:
+      - FIFO
+      - LIFO
+      Topology1:
+      - FullyConnected
+      - Ring
+      - Switch
+      Topology2:
+      - FullyConnected
+      - Ring
+      - Switch
+      Topology3:
+      - FullyConnected
+      - Ring
+      - Switch
+      Topology4:
+      - FullyConnected
+      - Ring
+      - Switch
+    transitions:
+      OutputNode: 1.0
+    type: ArchParams
+  InputNode:
+    attributes:
+      name:
+      - Input
+      value:
+      - None
+    transitions:
+      ArchParamsNode: 1.0
+    type: Input
+  OutputNode:
+    attributes:
+      name:
+      - Output
+      value:
+      - None
+    transitions: {}
+    type: Output

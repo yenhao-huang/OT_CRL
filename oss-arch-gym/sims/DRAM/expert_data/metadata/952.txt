@@ -1,0 +1,1 @@
+/home/user/Desktop/oss-arch-gym/sims/DRAM/expert_data/thread/Thread=952.pkl,ferret,logs/Thread_952_train/Thread_952_Workload_ferret_Algo_ppo_rlform_macme_num_steps_2000_seed_0_rewardscale_false_batchsize_10_sgdepoch_32_rpbufsize_10_regmethod_None

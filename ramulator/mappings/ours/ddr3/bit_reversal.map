@@ -1,0 +1,46 @@
+# Standard         DDR3
+# Number of bits     41
+# Channel             0
+# Rank                0
+# Bank                3
+# Row                32 
+# Column              6
+
+Co  5:0 =  5:0
+
+Ba 0 = 8
+Ba 1 = 7
+Ba 2 = 6
+
+Ro 0 = 40
+Ro 1 = 39
+Ro 2 = 38
+Ro 3 = 37
+Ro 4 = 36
+Ro 5 = 35
+Ro 6 = 34
+Ro 7 = 33
+Ro 8 = 32
+Ro 9 = 31
+Ro 10 = 30
+Ro 11 = 29
+Ro 12 = 28
+Ro 13 = 27
+Ro 14 = 26
+Ro 15 = 25
+Ro 16 = 24
+Ro 17 = 23
+Ro 18 = 22
+Ro 19 = 21
+Ro 20 = 20
+Ro 21 = 19
+Ro 22 = 18
+Ro 23 = 17
+Ro 24 = 16
+Ro 25 = 15
+Ro 26 = 14
+Ro 27 = 13
+Ro 28 = 12
+Ro 29 = 11
+Ro 30 = 10
+Ro 31 = 9

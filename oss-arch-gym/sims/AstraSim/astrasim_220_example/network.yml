@@ -1,0 +1,8 @@
+topology:
+- FullyConnected
+npus_count:
+- 64
+bandwidth:
+- 50.0
+latency:
+- 500.0

@@ -1,0 +1,40 @@
+Collecting flax
+  Using cached flax-0.8.2-py3-none-any.whl.metadata (10 kB)
+Requirement already satisfied: numpy>=1.22 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from flax) (1.26.2)
+Collecting jax>=0.4.19 (from flax)
+  Using cached jax-0.4.25-py3-none-any.whl.metadata (24 kB)
+Requirement already satisfied: msgpack in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from flax) (1.0.7)
+Requirement already satisfied: optax in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from flax) (0.1.7)
+Requirement already satisfied: orbax-checkpoint in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from flax) (0.4.4)
+Requirement already satisfied: tensorstore in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from flax) (0.1.45)
+Requirement already satisfied: rich>=11.1 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from flax) (13.7.0)
+Requirement already satisfied: typing-extensions>=4.2 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from flax) (4.9.0)
+Requirement already satisfied: PyYAML>=5.4.1 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from flax) (6.0.1)
+Requirement already satisfied: ml-dtypes>=0.2.0 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from jax>=0.4.19->flax) (0.2.0)
+Requirement already satisfied: opt-einsum in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from jax>=0.4.19->flax) (3.3.0)
+Requirement already satisfied: scipy>=1.9 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from jax>=0.4.19->flax) (1.10.1)
+Requirement already satisfied: importlib-metadata>=4.6 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from jax>=0.4.19->flax) (7.0.0)
+Requirement already satisfied: markdown-it-py>=2.2.0 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from rich>=11.1->flax) (3.0.0)
+Requirement already satisfied: pygments<3.0.0,>=2.13.0 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from rich>=11.1->flax) (2.17.2)
+Requirement already satisfied: absl-py>=0.7.1 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from optax->flax) (2.1.0)
+Collecting chex>=0.1.5 (from optax->flax)
+  Downloading chex-0.1.86-py3-none-any.whl.metadata (17 kB)
+Requirement already satisfied: jaxlib>=0.1.37 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from optax->flax) (0.4.13)
+Requirement already satisfied: etils[epath,epy] in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from orbax-checkpoint->flax) (1.5.2)
+Requirement already satisfied: nest_asyncio in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from orbax-checkpoint->flax) (1.5.8)
+Requirement already satisfied: protobuf in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from orbax-checkpoint->flax) (4.25.3)
+Requirement already satisfied: toolz>=0.9.0 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from chex>=0.1.5->optax->flax) (0.12.0)
+Requirement already satisfied: zipp>=0.5 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from importlib-metadata>=4.6->jax>=0.4.19->flax) (3.17.0)
+Requirement already satisfied: mdurl~=0.1 in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from markdown-it-py>=2.2.0->rich>=11.1->flax) (0.1.2)
+Requirement already satisfied: fsspec in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from etils[epath,epy]->orbax-checkpoint->flax) (2023.12.2)
+Requirement already satisfied: importlib_resources in /home/user/anaconda3/envs/arch-gym/lib/python3.9/site-packages (from etils[epath,epy]->orbax-checkpoint->flax) (6.1.1)
+Using cached flax-0.8.2-py3-none-any.whl (686 kB)
+Using cached jax-0.4.25-py3-none-any.whl (1.8 MB)
+Downloading chex-0.1.86-py3-none-any.whl (98 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 98.2/98.2 kB 2.7 MB/s eta 0:00:00
+Installing collected packages: jax, chex, flax
+  Attempting uninstall: jax
+    Found existing installation: jax 0.4.13
+    Uninstalling jax-0.4.13:
+      Successfully uninstalled jax-0.4.13
+Successfully installed chex-0.1.86 flax-0.8.2 jax-0.4.25

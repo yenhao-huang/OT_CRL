@@ -1,0 +1,16 @@
+# Standard         DDR4
+# Number of bits     26
+# Channel             0
+# Rank                0
+# BankGroup           2
+# Bank                2
+# Row                15 
+# Column              7
+
+Co 6:0 =  6:0
+Ro 14:0 = 25:11
+
+Ba 0 = 7 15
+Ba 1 = 8 16
+Bg 0 = 9 17
+Bg 1 = 10 18

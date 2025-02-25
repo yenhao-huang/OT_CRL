@@ -1,0 +1,165 @@
+               ramulator.active_cycles_0              377150                                      # Total active cycles for level _0
+                 ramulator.busy_cycles_0              377150                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0
+            ramulator.serving_requests_0              633314                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0
+    ramulator.average_serving_requests_0            0.033260                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0
+             ramulator.active_cycles_0_0              377150                                      # Total active cycles for level _0_0
+               ramulator.busy_cycles_0_0             1011134                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0
+          ramulator.serving_requests_0_0              633314                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0
+  ramulator.average_serving_requests_0_0            0.033260                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0
+           ramulator.active_cycles_0_0_0              141783                                      # Total active cycles for level _0_0_0
+             ramulator.busy_cycles_0_0_0              141783                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_0
+        ramulator.serving_requests_0_0_0              199253                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_0
+ramulator.average_serving_requests_0_0_0            0.010464                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_0
+         ramulator.active_cycles_0_0_0_0               40921                                      # Total active cycles for level _0_0_0_0
+           ramulator.busy_cycles_0_0_0_0               40921                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_0_0
+      ramulator.serving_requests_0_0_0_0               59738                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_0_0
+ramulator.average_serving_requests_0_0_0_0            0.003137                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_0_0
+         ramulator.active_cycles_0_0_0_1               42357                                      # Total active cycles for level _0_0_0_1
+           ramulator.busy_cycles_0_0_0_1               42357                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_0_1
+      ramulator.serving_requests_0_0_0_1               56358                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_0_1
+ramulator.average_serving_requests_0_0_0_1            0.002960                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_0_1
+         ramulator.active_cycles_0_0_0_2               35662                                      # Total active cycles for level _0_0_0_2
+           ramulator.busy_cycles_0_0_0_2               35662                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_0_2
+      ramulator.serving_requests_0_0_0_2               45459                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_0_2
+ramulator.average_serving_requests_0_0_0_2            0.002387                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_0_2
+         ramulator.active_cycles_0_0_0_3               28520                                      # Total active cycles for level _0_0_0_3
+           ramulator.busy_cycles_0_0_0_3               28520                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_0_3
+      ramulator.serving_requests_0_0_0_3               37698                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_0_3
+ramulator.average_serving_requests_0_0_0_3            0.001980                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_0_3
+           ramulator.active_cycles_0_0_1              100633                                      # Total active cycles for level _0_0_1
+             ramulator.busy_cycles_0_0_1              100633                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_1
+        ramulator.serving_requests_0_0_1              150825                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_1
+ramulator.average_serving_requests_0_0_1            0.007921                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_1
+         ramulator.active_cycles_0_0_1_0               22606                                      # Total active cycles for level _0_0_1_0
+           ramulator.busy_cycles_0_0_1_0               22606                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_1_0
+      ramulator.serving_requests_0_0_1_0               33361                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_1_0
+ramulator.average_serving_requests_0_0_1_0            0.001752                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_1_0
+         ramulator.active_cycles_0_0_1_1               24059                                      # Total active cycles for level _0_0_1_1
+           ramulator.busy_cycles_0_0_1_1               24059                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_1_1
+      ramulator.serving_requests_0_0_1_1               34834                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_1_1
+ramulator.average_serving_requests_0_0_1_1            0.001829                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_1_1
+         ramulator.active_cycles_0_0_1_2               22110                                      # Total active cycles for level _0_0_1_2
+           ramulator.busy_cycles_0_0_1_2               22110                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_1_2
+      ramulator.serving_requests_0_0_1_2               31190                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_1_2
+ramulator.average_serving_requests_0_0_1_2            0.001638                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_1_2
+         ramulator.active_cycles_0_0_1_3               36953                                      # Total active cycles for level _0_0_1_3
+           ramulator.busy_cycles_0_0_1_3               36953                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_1_3
+      ramulator.serving_requests_0_0_1_3               51440                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_1_3
+ramulator.average_serving_requests_0_0_1_3            0.002701                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_1_3
+           ramulator.active_cycles_0_0_2              127124                                      # Total active cycles for level _0_0_2
+             ramulator.busy_cycles_0_0_2              127124                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_2
+        ramulator.serving_requests_0_0_2              167348                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_2
+ramulator.average_serving_requests_0_0_2            0.008789                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_2
+         ramulator.active_cycles_0_0_2_0               35232                                      # Total active cycles for level _0_0_2_0
+           ramulator.busy_cycles_0_0_2_0               35232                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_2_0
+      ramulator.serving_requests_0_0_2_0               53938                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_2_0
+ramulator.average_serving_requests_0_0_2_0            0.002833                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_2_0
+         ramulator.active_cycles_0_0_2_1               33892                                      # Total active cycles for level _0_0_2_1
+           ramulator.busy_cycles_0_0_2_1               33892                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_2_1
+      ramulator.serving_requests_0_0_2_1               43884                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_2_1
+ramulator.average_serving_requests_0_0_2_1            0.002305                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_2_1
+         ramulator.active_cycles_0_0_2_2               34613                                      # Total active cycles for level _0_0_2_2
+           ramulator.busy_cycles_0_0_2_2               34613                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_2_2
+      ramulator.serving_requests_0_0_2_2               39384                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_2_2
+ramulator.average_serving_requests_0_0_2_2            0.002068                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_2_2
+         ramulator.active_cycles_0_0_2_3               26745                                      # Total active cycles for level _0_0_2_3
+           ramulator.busy_cycles_0_0_2_3               26745                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_2_3
+      ramulator.serving_requests_0_0_2_3               30142                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_2_3
+ramulator.average_serving_requests_0_0_2_3            0.001583                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_2_3
+           ramulator.active_cycles_0_0_3               75153                                      # Total active cycles for level _0_0_3
+             ramulator.busy_cycles_0_0_3               75153                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_3
+        ramulator.serving_requests_0_0_3              115888                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_3
+ramulator.average_serving_requests_0_0_3            0.006086                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_3
+         ramulator.active_cycles_0_0_3_0               19258                                      # Total active cycles for level _0_0_3_0
+           ramulator.busy_cycles_0_0_3_0               19258                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_3_0
+      ramulator.serving_requests_0_0_3_0               26814                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_3_0
+ramulator.average_serving_requests_0_0_3_0            0.001408                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_3_0
+         ramulator.active_cycles_0_0_3_1               15040                                      # Total active cycles for level _0_0_3_1
+           ramulator.busy_cycles_0_0_3_1               15040                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_3_1
+      ramulator.serving_requests_0_0_3_1               22587                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_3_1
+ramulator.average_serving_requests_0_0_3_1            0.001186                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_3_1
+         ramulator.active_cycles_0_0_3_2               17671                                      # Total active cycles for level _0_0_3_2
+           ramulator.busy_cycles_0_0_3_2               17671                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_3_2
+      ramulator.serving_requests_0_0_3_2               25565                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_3_2
+ramulator.average_serving_requests_0_0_3_2            0.001343                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_3_2
+         ramulator.active_cycles_0_0_3_3               25464                                      # Total active cycles for level _0_0_3_3
+           ramulator.busy_cycles_0_0_3_3               25464                                      # (All-bank refresh only. busy cycles only include refresh time in rank level) The sum of cycles that the DRAM part is active or under refresh for level _0_0_3_3
+      ramulator.serving_requests_0_0_3_3               40922                                      # The sum of read and write requests that are served in this DRAM element per memory cycle for level _0_0_3_3
+ramulator.average_serving_requests_0_0_3_3            0.002149                                      # The average of read and write requests that are served in this DRAM element per memory cycle for level _0_0_3_3
+      ramulator.read_transaction_bytes_0             1347968                                      # The total byte of read transaction per channel
+     ramulator.write_transaction_bytes_0              178752                                      # The total byte of write transaction per channel
+       ramulator.row_hits_channel_0_core               13008                                      # Number of row hits per channel per core
+     ramulator.row_misses_channel_0_core               10091                                      # Number of row misses per channel per core
+  ramulator.row_conflicts_channel_0_core                 756                                      # Number of row conflicts per channel per core
+  ramulator.read_row_hits_channel_0_core               12124                                      # Number of row hits for read requests per channel per core
+                                     [0]             12124.0                                      # 
+ramulator.read_row_misses_channel_0_core                8694                                      # Number of row misses for read requests per channel per core
+                                     [0]              8694.0                                      # 
+ramulator.read_row_conflicts_channel_0_core                 244                                      # Number of row conflicts for read requests per channel per core
+                                     [0]               244.0                                      # 
+ ramulator.write_row_hits_channel_0_core                 884                                      # Number of row hits for write requests per channel per core
+                                     [0]               884.0                                      # 
+ramulator.write_row_misses_channel_0_core                1397                                      # Number of row misses for write requests per channel per core
+                                     [0]              1397.0                                      # 
+ramulator.write_row_conflicts_channel_0_core                 512                                      # Number of row conflicts for write requests per channel per core
+                                     [0]               512.0                                      # 
+      ramulator.useless_activates_0_core                  61                                      # Number of useless activations. E.g, ACT -> PRE w/o RD or WR
+            ramulator.read_latency_avg_0           50.934004                                      # The average memory latency cycles (in memory time domain) per request for all read requests in this channel
+            ramulator.read_latency_sum_0             1072772                                      # The memory latency cycles (in memory time domain) sum for all read requests in this channel
+        ramulator.req_queue_length_avg_0            0.077817                                      # Average of read and write queue length per memory cycle per channel.
+        ramulator.req_queue_length_sum_0             1481735                                      # Sum of read and write queue length per memory cycle per channel.
+   ramulator.read_req_queue_length_avg_0            0.048647                                      # Read queue length average per memory cycle per channel.
+   ramulator.read_req_queue_length_sum_0              926311                                      # Read queue length sum per memory cycle per channel.
+  ramulator.write_req_queue_length_avg_0            0.029169                                      # Write queue length average per memory cycle per channel.
+  ramulator.write_req_queue_length_sum_0              555424                                      # Write queue length sum per memory cycle per channel.
+              ramulator.record_read_hits             12124.0                                      # record read hit count for this core when it reaches request limit or to the end
+                                     [0]             12124.0                                      # 
+            ramulator.record_read_misses              8694.0                                      # record_read_miss count for this core when it reaches request limit or to the end
+                                     [0]              8694.0                                      # 
+         ramulator.record_read_conflicts               244.0                                      # record read conflict count for this core when it reaches request limit or to the end
+                                     [0]               244.0                                      # 
+             ramulator.record_write_hits               884.0                                      # record write hit count for this core when it reaches request limit or to the end
+                                     [0]               884.0                                      # 
+           ramulator.record_write_misses              1397.0                                      # record write miss count for this core when it reaches request limit or to the end
+                                     [0]              1397.0                                      # 
+        ramulator.record_write_conflicts               512.0                                      # record write conflict for this core when it reaches request limit or to the end
+                                     [0]               512.0                                      # 
+                 ramulator.dram_capacity          4294967296                                      # Number of bytes in simulated DRAM
+                   ramulator.dram_cycles            19041329                                      # Number of DRAM cycles simulated
+             ramulator.incoming_requests               23855                                      # Number of incoming requests to DRAM
+                 ramulator.read_requests               21062                                      # Number of incoming read requests to DRAM per core
+                                     [0]             21062.0                                      # 
+                ramulator.write_requests                2793                                      # Number of incoming write requests to DRAM per core
+                                     [0]              2793.0                                      # 
+       ramulator.ramulator_active_cycles              377150                                      # The total number of cycles that the DRAM part is active (serving R/W)
+ ramulator.incoming_requests_per_channel             23855.0                                      # Number of incoming requests to each DRAM channel
+                                     [0]             23855.0                                      # 
+ramulator.incoming_read_reqs_per_channel             21062.0                                      # Number of incoming read requests to each DRAM channel
+                                     [0]             21062.0                                      # 
+     ramulator.physical_page_replacement                   0                                      # The number of times that physical page replacement happens.
+             ramulator.maximum_bandwidth         19200000000                                      # The theoretical maximum bandwidth (Bps)
+          ramulator.in_queue_req_num_sum             1481735                                      # Sum of read/write queue length
+     ramulator.in_queue_read_req_num_sum              926311                                      # Sum of read queue length
+    ramulator.in_queue_write_req_num_sum              555424                                      # Sum of write queue length
+          ramulator.in_queue_req_num_avg            0.077817                                      # Average of read/write queue length per memory cycle
+     ramulator.in_queue_read_req_num_avg            0.048647                                      # Average of read queue length per memory cycle
+    ramulator.in_queue_write_req_num_avg            0.029169                                      # Average of write queue length per memory cycle
+          ramulator.record_read_requests             21062.0                                      # record read requests for this core when it reaches request limit or to the end
+                                     [0]             21062.0                                      # 
+         ramulator.record_write_requests              2793.0                                      # record write requests for this core when it reaches request limit or to the end
+                                     [0]              2793.0                                      # 
+            ramulator.L3_cache_read_miss                   0                                      # cache read miss count
+           ramulator.L3_cache_write_miss                   0                                      # cache write miss count
+           ramulator.L3_cache_total_miss                   0                                      # cache total miss count
+             ramulator.L3_cache_eviction                   0                                      # number of evict from this level to lower level
+          ramulator.L3_cache_read_access                   0                                      # cache read access count
+         ramulator.L3_cache_write_access                   0                                      # cache write access count
+         ramulator.L3_cache_total_access                   0                                      # cache total access count
+             ramulator.L3_cache_mshr_hit                   0                                      # cache mshr hit count
+     ramulator.L3_cache_mshr_unavailable                   0                                      # cache mshr not available count
+      ramulator.L3_cache_set_unavailable                   0                                      # cache set not available
+                    ramulator.cpu_cycles            50776878                                      # cpu cycle number
+            ramulator.record_cycs_core_0            50776878                                      # Record cycle number for calculating weighted speedup. (Only valid when expected limit instruction number is non zero in config file.)
+           ramulator.record_insts_core_0           200000000                                      # Retired instruction number when record cycle number. (Only valid when expected limit instruction number is non zero in config file.)
+   ramulator.memory_access_cycles_core_0              411639                                      # memory access cycles in memory time domain
+       ramulator.cpu_instructions_core_0           200000002                                      # cpu instruction number

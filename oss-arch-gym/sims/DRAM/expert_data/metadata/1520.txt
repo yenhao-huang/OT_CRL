@@ -1,0 +1,1 @@
+/home/user/Desktop/oss-arch-gym/sims/DRAM/expert_data/thread/Thread=1520.pkl,freqmine,logs/Thread_1520_train/Thread_1520_Workload_freqmine_Algo_ppo_rlform_macme_num_steps_2000_seed_0_rewardscale_false_batchsize_10_sgdepoch_32_rpbufsize_10_regmethod_None

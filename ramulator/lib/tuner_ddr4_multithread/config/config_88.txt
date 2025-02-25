@@ -1,0 +1,7 @@
+pagepolicy,closed
+addressmapping,row_bank_col2
+rcd,13
+rp,13
+ras,25
+rrd,6
+refi,425880

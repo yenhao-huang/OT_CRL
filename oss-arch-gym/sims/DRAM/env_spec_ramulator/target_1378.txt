@@ -1,0 +1,2 @@
+latency,energy
+69345.7, 9206.1
