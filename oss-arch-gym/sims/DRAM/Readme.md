@@ -29,6 +29,12 @@ This repository provides scripts and tools for reinforcement learning-based work
 
 ---
 
+## **Important Files**
+### Build Model
+- **helpers.py**
+
+---
+
 ## **Script Details**
 
 ### **`incre_wobc_womodel.sh`**
