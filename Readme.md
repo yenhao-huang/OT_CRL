@@ -1,35 +1,78 @@
 # **Project**
 
-This project is a framework designed to explore reinforcement learning and continual learning approaches in architecture design and optimization. It integrates powerful simulators for DRAM performance and power analysis.
+This project is exploit reinforcement learning to make RL agent tune DRAM controller adaptively. It integrates powerful Zsim and ramulator simulators for DRAM performance and power analysis.
 
 ---
 
-## **Components**
+## **Components Overview**
 
 ### **1. OSS-Arch-Gym**
-- Provides reinforcement learning and continual learning capabilities for architectural optimization tasks.
 
-### **2. Ramulator**
-- A **DRAM simulator** used to simulate tasks executed on DRAM and optimize configurations.  
-- Key Features:
-  - Simulates DRAM access patterns.
-  - Enables tuning and performance analysis of DRAM.
-
-### **3. ZSim-Ramulator**
-- A **DRAM power simulator** designed for precise power consumption analysis during workload execution.  
-- Key Features:
-  - Combines DRAM performance with power modeling.
-  - Supports accurate estimation of power usage in DRAM systems.
+* Reinforcement learning framework for **controller tuning**.
+* Provides interfaces and tools for RL-based architecture exploration.
+* Supports multi-agent reinforcement learning and continual learning for adaptive system optimization.
 
 ---
 
-## **Usage**
+### **2. ZSim-Ramulator**
 
-1. Navigate to the workspace directory for specific simulators:
-   - Ramulator: `sims/ramulator`
-   - ZSim-Ramulator: `sims/zsim-ramulator`
+* **CPU simulator** designed for memory access pattern extraction.
+* Includes **DRAMPower** module for DRAM power evaluation.
 
-2. Execute the desired simulation or training script within the appropriate workspace.
+---
+
+### **3. Ramulator**
+
+* **DRAM simulator** for task execution analysis and configuration optimization.
+* **Key Features:**
+  * Simulates DRAM access behavior under various workloads.
+  * Supports DRAM tuning, performance evaluation, and analysis.
+
+
+---
+
+## **How to Use**
+
+### **0. Workspace**
+```bash
+cs oss-arch-gym/sims/DRAM/
+```
+
+### **1. Learning**
+
+Train agents with continual learning and multi-agent reinforcement learning
+
+```bash
+bash incre_wobc_womodel.sh
+```
+
+---
+
+### **2. Inference**
+
+Evaluate trained agent models
+
+```bash
+bash oss-arch-gym/sims/DRAM/inference_marl.sh
+```
+
+---
+
+### **3. Analysis**
+
+**(1) Format Compatibility**
+
+```text
+rename_file.ipynb
+```
+
+**(2) Visualize learning results**
+
+```text
+visualize_learn.ipynb
+```
+
+**Note:** Move the `rename` folder into `continuity_analysis` before running this notebook.
 
 ---
 
@@ -37,7 +80,3 @@ This project is a framework designed to explore reinforcement learning and conti
 - Integration of **reinforcement learning** and **continual learning** to optimize DRAM configurations.
 - Modular design for easy addition of new simulators or optimization algorithms.
 - Detailed performance and power analysis for DRAM systems.
-
----
-
-Let me know if you need further refinements or additional sections!
